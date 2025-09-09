@@ -1,4 +1,4 @@
-QA Júnior | Student of in Test Automation 💻🔍
+QA Júnior | Estudante de Automação de Testes 💻🔍
 
 # 👋 Olá, eu sou a Bea!  
 
